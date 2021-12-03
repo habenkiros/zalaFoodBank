@@ -6,10 +6,10 @@ Food bank is a food review posting site developed in Django. Where user can Regi
 
 <h2>Installing</h2>
 <pre>open terminal and type</pre>
-<code>git clone https://github.com/devmahmud/FoodBank.git</code><br><br>
+<code>git clone https://github.com/habenkros/zalaFoodBank.git</code><br><br>
 
 <h4>or simply download using the url below</h4>
-<code>https://github.com/devmahmud/FoodBank.git</code><br>
+<code>https://github.com/habenkiros/zalaFoodBank.git</code><br>
 
 <h2>To migrate the database open terminal in project directory and type</h2>
 <code>python manage.py makemigrations</code><br>
